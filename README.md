@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Matías%20Salicrú&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Frontend%20Developer&descSize=20&descAlignY=55)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Matías%20Salicrú&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Frontend%20Engineer&descSize=20&descAlignY=55)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=React+%7C+Next.js+%7C+TypeScript;Building+modern+web+experiences;Clean+Architecture+%26+Scalable+Solutions;Pixel-perfect+UIs+that+perform)](https://git.io/typing-svg)
 
@@ -9,8 +9,8 @@
 ## About Me
 
 ```typescript
-const matias: Developer = {
-  role: "Frontend Developer",
+const matias: Engineer = {
+  role: "Frontend Engineer",
   location: "Argentina",
   currentFocus: ["React", "Next.js", "TypeScript"],
   architecture: ["Clean Architecture", "Atomic Design", "Container-Presentational"],
